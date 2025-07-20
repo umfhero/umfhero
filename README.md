@@ -12,20 +12,14 @@
 
 ```java
 public class Developer {
-    private String name = "Umar, Majid Faiz";
-    private String role = "Student, Software Developer, Pentester";
-    private String[] interests = {
-        "P2P Communication",
-        "Real-time Collaboration",
-        "Secure Networking",
-        "Cybersecurity Research",
-        "Reverse Engineering",
-        "Exploit Development",
-        "Red Teaming"
-    };
+    private String myName = "Umar, Majid";
+    private int myAge = 20;
+    private String universityName = "MDX, London";
+    private String course = "Cyber Security and Digital Forensics";
+    private String currentYear = "3rd Year";
 
     public void sayHello() {
-        System.out.println("Welcome to my GitHub! Explore my projects and feel free to connect!");
+        System.out.println("Welcome to my LinkedIn!");
     }
 
     public static void main(String[] args) {
@@ -33,16 +27,19 @@ public class Developer {
         me.sayHello();
     }
 }
+
 ```
 
 ---
 
 ### 🛠️ Tools & Tech Stack
 
-- 💻 Languages: Java, Python, C#, HTML/CSS, JavaScript  
-- ⚙️ Frameworks: Unreal Engine 5, Flask, Node.js  
-- 🔐 Tools: Wireshark, Metasploit, Burp Suite, FTK Imager, Ghidra  
-- 🐧 OS: Linux (Kali, Ubuntu), Windows 11  
+- 💻 **Languages**: Python, Java, C++, Bash
+- 🎮 Formerly a game dev using Unreal Engine but now exploring game hacking through memory editing, RAM scanning, and runtime manipulation.
+- 🧰 **Cybersecurity Tools**: Wireshark, Burp Suite, Metasploit, FTK, Ghidra, Autopsy, Volatility, John the Ripper, Hydra, Nmap, Hashcat  
+- 🔬 **Forensics & Analysis**: Hex editors, Strings, Disk imaging (dd, FTK), Sleuth Kit, OSINT frameworks  
+- 🧠 **Practices & Skills**: Penetration Testing, Digital Forensics, Reverse Engineering, Vulnerability Scanning, Basic Exploit Dev, Post-Exploitation  
+- 🎯 **CTFs & Platforms**: TryHackMe, HackTheBox, PicoCTF, OverTheWire  
 
 ---
 
@@ -58,23 +55,3 @@ public class Developer {
 |-------|--------|-----------|
 | ![Majid's GitHub stats](https://github-readme-stats.vercel.app/api?username=umfhero&show_icons=true&theme=radical&hide=contribs&count_private=true) | ![GitHub Streak](https://streak-stats.demolab.com?user=umfhero&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umfhero&layout=compact&theme=radical) |
 
----
-
-### 🔍 Currently Exploring
-
-- 🧪 Building secure real-time collaboration tools  
-- 💡 Developing encrypted P2P apps with zero port-forwarding  
-- 🕵️ Investigating post-exploitation techniques and persistence  
-- 🔬 Reverse engineering legacy binaries and malware samples  
-
----
-
-### 🚀 Let's Connect
-
-- 🐦 Twitter: [@faizdev](https://twitter.com/faizdev)  
-- 💼 LinkedIn: [Majid Faiz](https://www.linkedin.com/in/yourprofile/)  
-- 🌐 Portfolio (Coming Soon)  
-
----
-
-> ⚡ *"Security is not a product, but a process."* – Bruce Schneier
