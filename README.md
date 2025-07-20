@@ -3,8 +3,7 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=umfhero.umfhero)  
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)  
 ![GitHub followers](https://img.shields.io/github/followers/umfhero?label=Follow&style=social)  
-![GitHub Stars](https://img.shields.io/github/stars/umfhero?style=social)  
-![Twitter Follow](https://img.shields.io/twitter/follow/faizdev?style=social)  
+
 
 ---
 
