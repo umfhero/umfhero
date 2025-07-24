@@ -17,14 +17,6 @@ public class Developer {
     private String course = "Cyber Security and Digital Forensics";
     private String currentYear = "3rd Year";
 
-    public void sayHello() {
-        System.out.println("Welcome to my LinkedIn!");
-    }
-
-    public static void main(String[] args) {
-        Developer me = new Developer();
-        me.sayHello();
-    }
 }
 
 ```
