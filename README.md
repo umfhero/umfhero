@@ -5,10 +5,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/umfhero?label=Follow&style=social)  
 
 
----
-
-### 👨‍💻 About Me
-
 ```java
 public class Developer {
     private String myName = "Umar, Majid";
@@ -20,19 +16,6 @@ public class Developer {
 }
 
 ```
-
----
-
-### 🛠️ Tools & Tech Stack
-
-- 💻 **Languages**: Python, Java, C++, Bash
-- 🎮 Formerly a game dev using Unreal Engine but now exploring game hacking through memory editing, RAM scanning, and runtime manipulation.
-- 🧰 **Cybersecurity Tools**: Wireshark, Burp Suite, Metasploit, FTK, Ghidra, Autopsy, Volatility, John the Ripper, Hydra, Nmap, Hashcat  
-- 🔬 **Forensics & Analysis**: Hex editors, Strings, Disk imaging (dd, FTK), Sleuth Kit, OSINT frameworks  
-- 🧠 **Practices & Skills**: Penetration Testing, Digital Forensics, Reverse Engineering, Vulnerability Scanning, Basic Exploit Dev, Post-Exploitation  
-- 🎯 **CTFs & Platforms**: TryHackMe, HackTheBox, PicoCTF, OverTheWire  
-
----
 
 ### 🏆 GitHub Trophies
 
