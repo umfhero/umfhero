@@ -17,15 +17,15 @@ public class Developer {
 
 ```
 
-### 🏆 GitHub Trophies
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=umfhero&theme=monokai&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ### 📈 GitHub Stats
 
 | Stats | Streak | Languages |
 |-------|--------|-----------|
 | ![Majid's GitHub stats](https://github-readme-stats.vercel.app/api?username=umfhero&show_icons=true&theme=radical&hide=contribs&count_private=true) | ![GitHub Streak](https://streak-stats.demolab.com?user=umfhero&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umfhero&layout=compact&theme=radical) |
+
+---
+
+### 🏆 GitHub Trophies
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=umfhero&theme=monokai&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
