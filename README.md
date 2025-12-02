@@ -8,7 +8,6 @@
 public class Developer {
     private String myName = "Majid, Faiz";
     private int myAge = 20;
-    private String jobTitle = "AI Backend Developer and Pentester Intern @ Rubat AI";
     private String studentStatus = "Final year BSc Cyber Security and Digital Forensics Student";
     private String societyRole = "President of the award-winning Cyber Security Society @ MDX";
     private String universityName = "MDX, London";
