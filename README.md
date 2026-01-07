@@ -23,32 +23,18 @@ public class Developer {
 ## 📊 GitHub Stats
 
 <div align="center">
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/umfhero">
-        <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=umfhero&theme=date_night&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&show=reviews,prs_merged"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/umfhero">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=umfhero&theme=date_night&hide_border=true"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/umfhero">
-        <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=umfhero&theme=date_night&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/umfhero">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=umfhero&bg_color=1a1b27&color=fe7186&line=fe7186&point=fe7186&area=true&hide_border=true&area_color=fe718655"/>
-      </a>
-    </td>
-  </tr>
-</table>
+  <a href="https://github.com/umfhero">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=umfhero&theme=date_night&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&show=reviews,prs_merged"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=umfhero&theme=date_night&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=umfhero&theme=date_night&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umfhero&bg_color=1a1b27&color=fe7186&line=fe7186&point=fe7186&area=true&hide_border=true&area_color=fe718655"/>
 </div>
 
 ---
@@ -56,20 +42,12 @@ public class Developer {
 ## 📌 Featured Projects
 
 <div align="center">
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/umfhero/ThoughtsPlus">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=umfhero&repo=ThoughtsPlus&theme=date_night&hide_border=true&show_owner=true"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/umfhero/Vortext-Tunnel-V3">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=umfhero&repo=Vortext-Tunnel-V3&theme=date_night&hide_border=true&show_owner=true"/>
-      </a>
-    </td>
-  </tr>
-</table>
+  <a href="https://github.com/umfhero/ThoughtsPlus">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=umfhero&repo=ThoughtsPlus&theme=date_night&hide_border=true&show_owner=true"/>
+  </a>
+  <a href="https://github.com/umfhero/Vortext-Tunnel-V3">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=umfhero&repo=Vortext-Tunnel-V3&theme=date_night&hide_border=true&show_owner=true"/>
+  </a>
 </div>
 
 
