@@ -17,10 +17,45 @@ public class Developer {
 
 
 ```
-![](https://github-readme-stats.vercel.app/api?username=umfhero&theme=date_night&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=umfhero&theme=date_night&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=umfhero&theme=date_night&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umfhero)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umfhero&theme=date_night&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=umfhero&theme=date_night&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umfhero&theme=date_night&hide_border=true&include_all_commits=true&count_private=true&layout=donut-vertical&langs_count=8)
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+  
+[![ThoughtsPlus](https://github-readme-stats.vercel.app/api/pin/?username=umfhero&repo=ThoughtsPlus&theme=date_night&hide_border=true&show_owner=true)](https://github.com/umfhero/ThoughtsPlus)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=umfhero&theme=react-dark&hide_border=true&area=true)
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=umfhero&theme=darkhub&no-frame=true&no-bg=true&column=7)
+
+</div>
 
 
