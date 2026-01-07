@@ -27,7 +27,7 @@ public class Developer {
   <tr>
     <td>
       <a href="https://github.com/umfhero">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=umfhero&theme=date_night&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&show=reviews,prs_merged"/>
+        <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=umfhero&theme=date_night&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&show=reviews,prs_merged"/>
       </a>
     </td>
     <td>
@@ -39,7 +39,7 @@ public class Developer {
   <tr>
     <td>
       <a href="https://github.com/umfhero">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=umfhero&theme=date_night&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8"/>
+        <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=umfhero&theme=date_night&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8"/>
       </a>
     </td>
     <td>
@@ -64,8 +64,8 @@ public class Developer {
       </a>
     </td>
     <td>
-      <a href="https://github.com/umfhero/SyncStream">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=umfhero&repo=SyncStream&theme=date_night&hide_border=true&show_owner=true"/>
+      <a href="https://github.com/umfhero/Vortext-Tunnel-V3">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=umfhero&repo=Vortext-Tunnel-V3&theme=date_night&hide_border=true&show_owner=true"/>
       </a>
     </td>
   </tr>
