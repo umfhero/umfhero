@@ -18,44 +18,41 @@ public class Developer {
 
 ```
 
----
-
-## 📊 GitHub Stats
-
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umfhero&theme=date_night&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage)
+<a href="https://github.com/umfhero">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=umfhero&theme=date_night&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&show=reviews,prs_merged"/>
+</a>
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=umfhero&theme=date_night&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umfhero&theme=date_night&hide_border=true&include_all_commits=true&count_private=true&layout=donut-vertical&langs_count=8)
+<a href="https://github.com/umfhero">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=umfhero&theme=date_night&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8"/>
+</a>
 
 </div>
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 <div align="center">
   
-[![ThoughtsPlus](https://github-readme-stats.vercel.app/api/pin/?username=umfhero&repo=ThoughtsPlus&theme=date_night&hide_border=true&show_owner=true)](https://github.com/umfhero/ThoughtsPlus)
+<a href="https://github.com/umfhero/ThoughtsPlus">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=umfhero&repo=ThoughtsPlus&theme=date_night&hide_border=true&show_owner=true"/>
+</a>
+<a href="https://github.com/umfhero/SyncStream">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=umfhero&repo=SyncStream&theme=date_night&hide_border=true&show_owner=true"/>
+</a>
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=umfhero&theme=react-dark&hide_border=true&area=true)
 
----
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=umfhero&theme=darkhub&no-frame=true&no-bg=true&column=7)
-
-</div>
 
 
