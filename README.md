@@ -21,6 +21,6 @@ public class Developer {
 ![](https://nirzak-streak-stats.vercel.app/?user=umfhero&theme=date_night&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=umfhero&theme=date_night&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umfhero)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
