@@ -20,19 +20,18 @@ public class Developer {
 
 ---
 
-### 📊 Nerdy Stats
+### Nerdy Stats
 
 | Stats | Streak | Top Languages |
 |-------|--------|---------------|
 | ![Majid's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=umfhero&show_icons=true&theme=date_night&hide_border=true&count_private=true&include_all_commits=true) | ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=umfhero&theme=date_night&hide_border=true) | ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=umfhero&layout=compact&theme=date_night&hide_border=true&langs_count=8) |
 
-### 📈 Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=umfhero&bg_color=1a1b27&color=fe7186&line=fe7186&point=fe7186&area=true&hide_border=true&area_color=fe718655)
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
 | ThoughtsPlus | Vortext Tunnel V3 |
 |--------------|-------------------|
