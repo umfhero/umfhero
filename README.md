@@ -27,7 +27,7 @@ public class Developer {
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=umfhero&bg_color=1a1b27&color=fe7186&line=fe7186&point=fe7186&area=true&hide_border=true&area_color=fe718655)
 
-
+[![trophy](https://github-profile-trophy-kannan.vercel.app/?username=umfhero)](https://github.com/umfhero)
 
 ### Currently working on
 
