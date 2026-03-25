@@ -57,9 +57,6 @@ Previously interned as an AI Backend Developer at Rubat AI, deploying machine le
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=umfhero&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=umfhero&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
-
----
-
 <p align="center">
   <a href="https://www.linkedin.com/in/umarmfaiz/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
