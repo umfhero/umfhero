@@ -1,40 +1,72 @@
-# 👋🏼 Hello there!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=Majid%20Faiz&fontColor=FFFFFF&fontSize=42&fontAlignY=35&desc=Cyber%20Security%20%7C%20Offensive%20Tooling%20%7C%20AI-Assisted%20Pen%20Testing&descColor=8b949e&descAlignY=55&descSize=16" alt="Header" />
+</p>
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=umfhero.umfhero) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)  ![GitHub followers](https://img.shields.io/github/followers/umfhero?label=Follow&style=social) ![GitHub User's stars](https://img.shields.io/github/stars/umfhero?affiliations=OWNER%2CCOLLABORATOR&style=social) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/majid.priv_) 
+### About
 
-# Tech Stack
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=flat&logo=assemblyscript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epicgames&logoColor=white)
+Final-year BSc Cyber Security and Digital Forensics student at Middlesex University, London. I build security tools, ship desktop software, and founded the MDX Cyber Security Society (60+ members, Students' Union award).
 
-### About Me
-```java
-public class Developer {
-    private String myName = "Majid, Faiz";
-    private int myAge = 20;
-    private String studentStatus = "Final year BSc Cyber Security and Digital Forensics Student";
-    private String societyRole = "President of the award-winning Cyber Security Society @ MDX";
-    private String universityName = "MDX, London";
-}
+Previously interned as an AI Backend Developer at Rubat AI, deploying machine learning models and mentoring junior engineers. My research focus is AI-assisted penetration testing, and I'm pursuing an MSc in Cyber Security followed by doctoral work in offensive security.
 
+---
 
-```
+### Featured Projects
 
-### Nerdy Stats
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/umfhero/PurpleTeamAI">PurpleTeam Suite</a></h4>
+      <p><em>Dissertation, 2025</em></p>
+      <p>Automated vulnerability assessment framework. Orchestrates a two-phase Nmap pipeline across all 65,535 ports, maps findings to the OWASP Top 10 via deterministic keyword matching, scores target posture, and generates remediation reports through Google Gemini with a hallucination guard that cross-validates AI output against scan data.</p>
+      <p><code>TypeScript</code> <code>Electron</code> <code>React</code> <code>Nmap</code> <code>Gemini API</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/umfhero/ThoughtsPlus">ThoughtsPlus</a></h4>
+      <p><em>Live on Microsoft Store</em></p>
+      <p>Shortcut-driven note capture and workspace for Windows. Jupyter-style code cells (Python/JS via Pyodide), linked notes with a force-directed graph, drawing canvas, and multi-device sync through cloud folders. No telemetry, all data stored locally.</p>
+      <p><code>TypeScript</code> <code>Electron</code> <code>React</code> <code>Pyodide</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Starbug10/Poly-Hub">PolyHub</a></h4>
+      <p><em>Co-engineered, 10 releases shipped</em></p>
+      <p>Peer-to-peer file sharing for large transfers (5GB+) between trusted users over Tailscale's encrypted mesh network. Custom TCP sync protocol with resume support.</p>
+      <p><code>JavaScript</code> <code>Electron</code> <code>React</code> <code>Tailscale</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Maiz Studio</h4>
+      <p><em>Founded and led</em></p>
+      <p>Creative development studio within the Fortnite ecosystem. Led a remote team that delivered ten maps and reached over 100,000 lifetime plays.</p>
+      <p><code>Unreal Engine</code> <code>Blender</code> <code>Project Management</code></p>
+    </td>
+  </tr>
+</table>
 
-| Stats | Streak | Top Languages |
-|-------|--------|---------------|
-| ![Majid's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=umfhero&show_icons=true&theme=date_night&hide_border=true&count_private=true&include_all_commits=true) | ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=umfhero&theme=date_night&hide_border=true) | ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=umfhero&layout=compact&theme=date_night&hide_border=true&langs_count=8) |
+### Tech
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,py,js,java,cpp,bash,kali,linux,react,electron,nodejs,tailwind,mysql,supabase,firebase,git&perline=8" alt="Tech Stack" />
+  </a>
+</p>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=umfhero&bg_color=1a1b27&color=fe7186&line=fe7186&point=fe7186&area=true&hide_border=true&area_color=fe718655)
+### GitHub Activity
 
-[![trophy](https://github-profile-trophy-kannan.vercel.app/?username=umfhero)](https://github.com/umfhero)
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=umfhero&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=umfhero&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" />
+</p>
 
-### Currently working on
+---
 
-| ThoughtsPlus | Poly-Hub (V4) |
-|--------------|-------------------|
-| [![ThoughtsPlus](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=umfhero&repo=ThoughtsPlus&theme=date_night&hide_border=true)](https://github.com/umfhero/ThoughtsPlus) | [![Poly-Hub](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Starbug10&repo=Poly-Hub&theme=date_night&hide_border=true)](https://github.com/Starbug10/Poly-Hub) |
+<p align="center">
+  <a href="https://www.linkedin.com/in/umarmfaiz/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://umfhero.com/">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Website" />
+  </a>
+</p>
 
-
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=100&section=footer" alt="Footer" />
