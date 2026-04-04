@@ -35,10 +35,10 @@ Previously interned as an AI Backend Developer at Rubat AI, deploying machine le
       <p><code>JavaScript</code> <code>Electron</code> <code>React</code> <code>Tailscale</code></p>
     </td>
     <td width="50%" valign="top">
-      <h4>Maiz Studio</h4>
-      <p><em>Founded and led</em></p>
-      <p>Creative development studio within the Fortnite ecosystem. Led a remote team that delivered ten maps and reached over 100,000 lifetime plays.</p>
-      <p><code>Unreal Engine</code> <code>Blender</code> <code>Project Management</code></p>
+      <h4><a href="https://github.com/umfhero/Forensic-AI">Forensic-AI</h4>
+      <p><em>Autonomous forensic triage agent</em></p>
+      <p>Extends Protocol SIFT with a structured reasoning framework and self-correcting triage loop. Built for the FIND EVIL! Hackathon (SANS Institute, 2026) to automate investigative sequencing and cross-validation between disk and memory.</p>
+      <p><code>Claude Code</code> <code>MCP</code> <code>SIFT</code> <code>TypeScript</code></p>
     </td>
   </tr>
 </table>
