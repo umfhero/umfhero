@@ -4,9 +4,9 @@
 
 ### About
 
-Final-year BSc Cyber Security and Digital Forensics student at Middlesex University, London. I build security tools, ship desktop software, and founded the MDX Cyber Security Society (60+ members, Students' Union award).
+BSc Cyber Security and Digital Forensics graduate from Middlesex University, London, now pursuing an MSc in Cyber Security at King's College London. I build security tools, ship desktop software, and founded the MDX Cyber Security Society (50+ members, Students' Union award).
 
-Previously interned as an AI Backend Developer at Rubat AI, deploying machine learning models and mentoring junior engineers. My research focus is AI-assisted penetration testing, and I'm pursuing an MSc in Cyber Security followed by doctoral work in offensive security.
+Previously interned as an AI Backend Developer at Rubat AI, deploying machine learning models and mentoring junior engineers. My research focus is AI-assisted penetration testing, with plans to pursue doctoral work in offensive security.
 
 ---
 
