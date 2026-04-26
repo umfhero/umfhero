@@ -1,6 +1,18 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=Majid%20Faiz&fontColor=FFFFFF&fontSize=42&fontAlignY=35&desc=Cyber%20Security%20%7C%20Offensive%20Tooling%20%7C%20AI-Assisted%20Pen%20Testing&descColor=8b949e&descAlignY=55&descSize=16" alt="Header" />
-</p>
+```bash
+$ nmap -sV umfhero.local
+```
+
+```
+PORT      STATE  SERVICE       VERSION
+22/tcp    open   identity      Majid Faiz — London, UK
+80/tcp    open   bsc           Cyber Security & Digital Forensics @ MDX
+443/tcp   open   msc           Cyber Security @ King's College London
+1337/tcp  open   society       Founder, MDX Cyber Security Society (50+ members)
+9000/tcp  open   focus         offensive tooling, AI-assisted pen testing
+65535/tcp open   goal          doctoral research, offensive security
+
+scan complete · 6 services up
+```
 
 ### About
 
@@ -9,8 +21,15 @@ BSc Cyber Security and Digital Forensics graduate from Middlesex University, Lon
 Previously interned as an AI Backend Developer at Rubat AI, deploying machine learning models and mentoring junior engineers. My research focus is AI-assisted penetration testing, with plans to pursue doctoral work in offensive security.
 
 ---
+### `$ git log --oneline`
 
-### Featured Projects
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=umfhero&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=umfhero&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+</p>
+
+---
+### `$ ls ~/projects`
 
 <table>
   <tr>
@@ -23,7 +42,7 @@ Previously interned as an AI Backend Developer at Rubat AI, deploying machine le
     <td width="50%" valign="top">
       <h4><a href="https://github.com/umfhero/ThoughtsPlus">ThoughtsPlus</a></h4>
       <p><em>Live on Microsoft Store</em></p>
-      <p>Shortcut-driven note capture and workspace for Windows. Jupyter-style code cells (Python/JS via Pyodide), linked notes with a force-directed graph, drawing canvas, and multi-device sync through cloud folders. No telemetry, all data stored locally.</p>
+      <p>Shortcut-driven note capture and workspace for Windows. Jupyter-style code cells (Python/JS via Pyodide), linked notes with a force-directed graph, drawing canvas, and multi-device sync over LAN. No telemetry, all data stored locally.</p>
       <p><code>TypeScript</code> <code>Electron</code> <code>React</code> <code>Pyodide</code></p>
     </td>
   </tr>
@@ -35,7 +54,7 @@ Previously interned as an AI Backend Developer at Rubat AI, deploying machine le
       <p><code>JavaScript</code> <code>Electron</code> <code>React</code> <code>Tailscale</code></p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/umfhero/Forensic-AI">Forensic-AI</h4>
+      <h4><a href="https://github.com/umfhero/Forensic-AI">Forensic-AI</a></h4>
       <p><em>Autonomous forensic triage agent</em></p>
       <p>Extends Protocol SIFT with a structured reasoning framework and self-correcting triage loop. Built for the FIND EVIL! Hackathon (SANS Institute, 2026) to automate investigative sequencing and cross-validation between disk and memory.</p>
       <p><code>Claude Code</code> <code>MCP</code> <code>SIFT</code> <code>TypeScript</code></p>
@@ -43,27 +62,35 @@ Previously interned as an AI Backend Developer at Rubat AI, deploying machine le
   </tr>
 </table>
 
-### Tech
+### `$ tail ~/.activity-log`
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,py,js,java,cpp,bash,kali,linux,react,electron,nodejs,tailwind,mysql,supabase,firebase,git&perline=8" alt="Tech Stack" />
-  </a>
-</p>
+```
+[ctf]        KalmarCTF 2026          RootBabyKalmarCTF — Zip Slip / path traversal
+[hackathon]  SANS FIND EVIL! 2026    autonomous forensic triage agent (Forensic-AI)
+[community]  OWASP London Chapter    regular meetups, talks
+[bounties]   ongoing                 responsible disclosure on production targets
+[research]   PurpleTeam Suite        dissertation — targeting TechRxiv
+```
 
-### GitHub Activity
+### `$ cat ~/homelab/services.yml`
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=umfhero&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=umfhero&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" />
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/umarmfaiz/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://umfhero.com/">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Website" />
-  </a>
-</p>
+```yaml
+music     →  self-hosted streaming, offline-first, no telemetry
+ai        →  local LLMs for automation, agentic pipelines, on-device inference
+sync      →  Tailscale mesh for peer file transfer
+network   →  segmented subnets for lab isolation
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=100&section=footer" alt="Footer" />
+### `$ cat ~/.stack`
+
+```typescript
+const stack = {
+  languages:  ["TypeScript", "Python", "JavaScript", "Bash"],
+  frontend:   ["React", "Next.js", "Electron"],
+  backend:    ["Node.js", "Express"],
+  security:   ["Nmap", "Kali", "MCP"],
+  ai:         ["Claude API", "Gemini API", "Ollama"],
+  infra:      ["Tailscale", "Supabase", "Linux"],
+};
+```
+
