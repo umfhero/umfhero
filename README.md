@@ -1,10 +1,4 @@
 ```bash
-
-$ nmap -sV umfhero.local
-
-```
-
-```
 PORT      STATE  SERVICE       VERSION
 22/tcp    open   identity      Majid Faiz — London, UK
 80/tcp    open   bsc           Cyber Security & Digital Forensics @ MDX
@@ -29,6 +23,17 @@ Previously interned as an AI Backend Developer at Rubat AI, deploying machine le
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=umfhero&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=umfhero&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=umfhero%2FThoughtsPlus&type=timeline&legend=bottom-right">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=umfhero/ThoughtsPlus&type=timeline&theme=dark&legend=bottom-right" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=umfhero/ThoughtsPlus&type=timeline&legend=bottom-right" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=umfhero/ThoughtsPlus&type=timeline&legend=bottom-right" />
+ </picture>
+</a>
+
 
 ---
 ### `$ ls ~/projects`
