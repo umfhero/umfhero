@@ -2,7 +2,7 @@
 PORT      STATE  SERVICE       VERSION
 22/tcp    open   identity      Majid Faiz — London, UK
 80/tcp    open   bsc           Cyber Security & Digital Forensics @ MDX
-443/tcp   open   msc           Cyber Security @ King's College London
+443/tcp   open   msc           Cyber Security @ Kings College London
 1337/tcp  open   society       Founder, MDX Cyber Security Society (50+ members)
 9000/tcp  open   focus         offensive tooling, AI-assisted pen testing
 65535/tcp open   goal          doctoral research, offensive security
