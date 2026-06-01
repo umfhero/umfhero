@@ -1,32 +1,21 @@
-```bash
-PORT      STATE  SERVICE       VERSION
-22/tcp    open   identity      Majid Faiz — London, UK
-80/tcp    open   bsc           Cyber Security & Digital Forensics @ MDX
-443/tcp   open   msc           Cyber Security @ Kings College London
-1337/tcp  open   society       Founder, MDX Cyber Security Society (50+ members)
-9000/tcp  open   focus         offensive tooling, AI-assisted pen testing
-65535/tcp open   goal          doctoral research, offensive security
+👋 Hi, I am Umar Majid Faiz (@umfhero)
 
-scan complete · 6 services up
-```
+## About Me
 
-### About
+A cyber security graduate and software developer based in London. I specialise in offensive security, automating vulnerability discovery, and full-stack development. My technical stack includes Python, TypeScript, React, Node.js, and Electron. I focus on building AI-assisted security frameworks and frictionless productivity tools.
 
-BSc Cyber Security and Digital Forensics graduate from Middlesex University, London, now pursuing an MSc in Cyber Security at King's College London. I build security tools, ship desktop software, and founded the MDX Cyber Security Society (50+ members, Students' Union award).
+## Education
 
-Previously interned as an AI Backend Developer at Rubat AI, deploying machine learning models and mentoring junior engineers. My research focus is AI-assisted penetration testing, with plans to pursue doctoral work in offensive security.
+* Incoming MSc Cyber Security at King's College London
+* BSc (Hons) Cyber Security and Digital Forensics (Predicted First Class Honours) at Middlesex University
+* BSc (Hons) Computer Science (Cyber Security) at University of Kent (Stage 1 Transferred)
 
----
-### `$ git log --oneline`
+## Experience & Projects
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=umfhero&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=umfhero&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-</p>
-
-
----
-### `$ ls ~/projects`
+* Creator of PurpleTeam Suite, an AI-assisted framework for vulnerability discovery, prioritisation, and remediation guidance
+* Creator of ThoughtsPlus, a frictionless productivity application published on the Microsoft Store
+* Founder and President of the MDX Cyber Security Society 2025-2026, awarded MDXSU Best Newcomer of the Year 2025
+* Founder and Managing Director at Maiz Studio, leading a remote team developing UEFN experiences in Verse
 
 <table>
   <tr>
@@ -59,35 +48,8 @@ Previously interned as an AI Backend Developer at Rubat AI, deploying machine le
   </tr>
 </table>
 
-### `$ tail ~/.activity-log`
 
-```
-[ctf]        KalmarCTF 2026          RootBabyKalmarCTF — Zip Slip / path traversal
-[hackathon]  SANS FIND EVIL! 2026    autonomous forensic triage agent (Forensic-AI)
-[community]  OWASP London Chapter    regular meetups, talks
-[bounties]   ongoing                 responsible disclosure on production targets
-[research]   PurpleTeam Suite        dissertation — targeting TechRxiv
-```
-
-### `$ cat ~/homelab/services.yml`
-
-```yaml
-music     →  self-hosted streaming, offline-first, no telemetry
-ai        →  local LLMs for automation, agentic pipelines, on-device inference
-sync      →  Tailscale mesh for peer file transfer
-network   →  segmented subnets for lab isolation
-```
-
-### `$ cat ~/.stack`
-
-```typescript
-const stack = {
-  languages:  ["TypeScript", "Python", "JavaScript", "Bash"],
-  frontend:   ["React", "Next.js", "Electron"],
-  backend:    ["Node.js", "Express"],
-  security:   ["Nmap", "Kali", "MCP"],
-  ai:         ["Claude API", "Gemini API", "Ollama"],
-  infra:      ["Tailscale", "Supabase", "Linux"],
-};
-```
-
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=umfhero&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=umfhero&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+</p>
