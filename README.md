@@ -2,7 +2,7 @@
 
 ## About Me
 
-A cyber security graduate and software developer based in London. I specialise in offensive security, automating vulnerability discovery, and full-stack development. My technical stack includes Python, TypeScript, React, Node.js, and Electron. I focus on building AI-assisted security frameworks and frictionless productivity tools.
+A cyber security graduate and AI developer based in London. I specialise in offensive security, automating vulnerability discovery, and full-stack development. My technical stack includes Python, TypeScript, React, Node.js, and Electron. I focus on building AI-assisted security frameworks and frictionless productivity tools.
 
 ## Experience & Projects
 
