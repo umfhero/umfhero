@@ -1,4 +1,4 @@
-👋 Hi, I am Umar Majid Faiz (@umfhero)
+👋 Hi, I am Majid (@umfhero)
 
 ## About Me
 
