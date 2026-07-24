@@ -7,7 +7,7 @@
 
 ### Experience & Projects
 * **Currently an AI Transformation Intern @ Cloudflare**
-* Built PurpleTeam Suite, an AI-assisted framework for vulnerability discovery, prioritisation, and remediation guidance
+* Built PurpleTeam Suite, a deterministic AI-assisted framework for vulnerability discovery, prioritisation, and remediation guidance
 * Built ThoughtsPlus, a frictionless productivity application published on the Microsoft Store
 * Built Samanatha, a successor to thoughtsplus, CluadeTracker and desktop widgets. Created as a free hosted widget. 
 
