@@ -11,7 +11,7 @@
   <sub>AI Transformation Intern @ Cloudflare&nbsp;&nbsp;·&nbsp;&nbsp;MSc Cyber Security @ King's College London</sub>
 </p>
 
-> Always happy to talk AI, cybersecurity, or anything technical with people building interesting things — feel free to reach out, or connect with me on LinkedIn!
+> Always happy to talk AI, cybersecurity, or anything technical with people building interesting things, feel free to reach out, or connect with me on LinkedIn!
 
 <br/>
 
