@@ -2,11 +2,11 @@
 > A cyber security graduate and AI developer based in London, specialising in offensive security, automating vulnerability discovery, and building AI-assisted security tooling.
 
 <p align="center">
-  <a href="https://cloudflare.com">
+  <a href="https://cloudflare.com" style="text-decoration: none;">
     <img src="assets/cloudflare.svg" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://kcl.ac.uk">
+  <a href="https://kcl.ac.uk" style="text-decoration: none;">
     <img src="assets/KCLi.png" height="40" />
   </a>
 </p>
@@ -15,10 +15,7 @@
   <sub>AI Transformation Intern @ Cloudflare&nbsp;&nbsp;·&nbsp;&nbsp;MSc Cyber Security @ King's College London</sub>
 </p>
 
-<p align="center">
-  Always up for a conversation about AI, cybersecurity, or anything technical.<br/>
-  Always happy to connect with people working in security, AI, or just building interesting things, so feel free to reach out! Feel free to connect with me on LinkedIn too.
-</p>
+> Always happy to talk AI, cybersecurity, or anything technical with people building interesting things — feel free to reach out, or connect with me on LinkedIn!
 
 <br/>
 
