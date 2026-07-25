@@ -2,13 +2,9 @@
 > A cyber security graduate and AI developer based in London, specialising in offensive security, automating vulnerability discovery, and building AI-assisted security tooling.
 
 <p align="center">
-  <a href="https://cloudflare.com" style="text-decoration: none;">
-    <img src="assets/cloudflare.svg" height="40" />
-  </a>
+  <img src="assets/cloudflare.svg" height="40" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://kcl.ac.uk" style="text-decoration: none;">
-    <img src="assets/KCLi.png" height="40" />
-  </a>
+  <img src="assets/KCLi.png" height="40" />
 </p>
 
 <p align="center">
