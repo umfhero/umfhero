@@ -1,23 +1,88 @@
-> **Hi, I am Majid (@umfhero)**  
-> A cyber security graduate and AI developer based in London, specialising in offensive security, automating vulnerability discovery, and building AI-assisted security tooling. 
+<h1 align="center">Majid</h1>
+<h3 align="center"><code>@umfhero</code></h3>
 
-### Technical Stack
-<img src="assets/python.svg" height="22" align="center" /> Python &nbsp;•&nbsp; <img src="assets/typescript.svg" height="22" align="center" /> TypeScript &nbsp;•&nbsp; <img src="assets/react.svg" height="22" align="center" /> React &nbsp;•&nbsp; <img src="assets/nodejs.svg" height="22" align="center" /> Node.js &nbsp;•&nbsp; <img src="assets/electron.svg" height="22" align="center" /> Electron<br>
-<img src="https://cdn.simpleicons.org/docker/2496ED" height="22" align="center" /> Docker &nbsp;•&nbsp; <img src="https://cdn.simpleicons.org/linux/FCC624" height="22" align="center" /> Linux &nbsp;•&nbsp; <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="22" align="center" /> C++ &nbsp;•&nbsp; <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="22" align="center" /> Bash &nbsp;•&nbsp; <img src="https://cdn.simpleicons.org/git/F05032" height="22" align="center" /> Git
+<p align="center">
+  <a href="https://cloudflare.com">
+    <img src="assets/cloudflare.svg" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://kcl.ac.uk">
+    <img src="assets/KCLi.png" height="40" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>AI Transformation Intern @ Cloudflare&nbsp;&nbsp;·&nbsp;&nbsp;MSc Cyber Security @ King's College London</sub>
+</p>
+
+<p align="center">
+  Cyber security graduate and AI developer based in London, specialising in offensive security and AI-assisted tooling.<br/>
+  Always up for a conversation about AI, cybersecurity, or anything technical.
+</p>
+
+<p align="center">
+  <a href="https://umfhero.com"><img src="https://img.shields.io/badge/umfhero.com-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:umfhero@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/umfhero"><img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<br/>
+
+### Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+<br/>
 
 ### Experience & Projects
-* **Currently an AI Transformation Intern @ Cloudflare**
-* Built PurpleTeam Suite, a deterministic AI-assisted framework for vulnerability discovery, prioritisation, and remediation guidance
-* Built ThoughtsPlus, a frictionless productivity application published on the Microsoft Store
-* Built Samanatha, a successor to thoughtsplus, CluadeTracker and desktop widgets. Created as a free hosted widget. 
 
----
+- **Currently an AI Transformation Intern @ Cloudflare**
+- Built PurpleTeam Suite, a deterministic AI-assisted framework for vulnerability discovery, prioritisation, and remediation guidance
+- Built ThoughtsPlus, a frictionless productivity application published on the Microsoft Store
+- Built Samanatha, a successor to ThoughtsPlus and ClaudeTracker, with desktop widgets — created as a free hosted widget
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=umfhero&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=umfhero&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="49%" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umfhero&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umfhero&theme=tokyo-night&hide_border=true&radius=4" width="49%" />
-</div>
+<br/>
+
+### GitHub Stats
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=umfhero&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%" />
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=umfhero&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=umfhero&theme=tokyonight&hide_border=true" width="100%" />
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=umfhero&theme=tokyo-night&hide_border=true&radius=4" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=umfhero&label=Profile+Views&color=2b2f3a&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <sub>Monster addicted</sub>
+</p>
