@@ -20,12 +20,6 @@
   Always up for a conversation about AI, cybersecurity, or anything technical.
 </p>
 
-<p align="center">
-  <a href="https://umfhero.com"><img src="https://img.shields.io/badge/umfhero.com-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:umfhero@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/umfhero"><img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
 <br/>
 
 ### Stack
@@ -52,7 +46,7 @@
 - **Currently an AI Transformation Intern @ Cloudflare**
 - Built PurpleTeam Suite, a deterministic AI-assisted framework for vulnerability discovery, prioritisation, and remediation guidance
 - Built ThoughtsPlus, a frictionless productivity application published on the Microsoft Store
-- Built Samanatha, a successor to ThoughtsPlus and ClaudeTracker, with desktop widgets — created as a free hosted widget
+- Built Samanatha, a successor to ThoughtsPlus and ClaudeTracker, with a desktop widget sync
 
 <br/>
 
@@ -76,13 +70,3 @@
     </td>
   </tr>
 </table>
-
-<br/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=umfhero&label=Profile+Views&color=2b2f3a&style=for-the-badge" />
-</p>
-
-<p align="center">
-  <sub>Monster addicted</sub>
-</p>
