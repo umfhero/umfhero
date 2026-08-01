@@ -17,7 +17,7 @@
 
 ### Experience & Projects
 
-- **Currently an AI Transformation Intern @ Cloudflare**
+- **Currently an AI Transformation Intern @ Cloudflare** - Making frontier models deterministic.
 - Built PurpleTeam Suite, a deterministic AI-assisted framework for vulnerability discovery, prioritisation, and remediation guidance
 - Built ThoughtsPlus, a frictionless productivity application published on the Microsoft Store
 - Built Samanatha, a successor to ThoughtsPlus and ClaudeTracker, with a desktop widget sync
