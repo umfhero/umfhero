@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="52" viewBox="0 0 1200 52" role="img" aria-labelledby="title description">
+  <title id="title">Current areas of focus</title>
+  <desc id="description">A slow-moving rail listing AI Transformation, LLM Reliability, Knowledge Graphs, Agentic Workflows, Model Evaluation, Cyber Security, and Vulnerability Automation.</desc>
+  <defs>
+    <clipPath id="rail-clip">
+      <rect x="12" y="8" width="1176" height="36" rx="8"/>
+    </clipPath>
+  </defs>
+  <rect x="0.5" y="0.5" width="1199" height="51" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+  <g clip-path="url(#rail-clip)" fill="#57606a" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" font-weight="600" letter-spacing="0.4">
+    <g>
+      <text x="16" y="31">AI TRANSFORMATION  ·  LLM RELIABILITY  ·  KNOWLEDGE GRAPHS  ·  AGENTIC WORKFLOWS  ·  MODEL EVALUATION  ·  CYBER SECURITY  ·  VULNERABILITY AUTOMATION  ·  </text>
+      <text x="1110" y="31">AI TRANSFORMATION  ·  LLM RELIABILITY  ·  KNOWLEDGE GRAPHS  ·  AGENTIC WORKFLOWS  ·  MODEL EVALUATION  ·  CYBER SECURITY  ·  VULNERABILITY AUTOMATION  ·  </text>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-1094 0" dur="42s" repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>
