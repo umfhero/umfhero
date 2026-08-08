@@ -1,5 +1,3 @@
-## Umar Majid Faiz
-
 I go by Majid · [@umfhero](https://github.com/umfhero)
 
 Cyber security graduate and AI developer based in London, focused on making AI systems more deterministic, reliable and useful across security and real-world workflows.
@@ -31,22 +29,7 @@ Cyber security graduate and AI developer based in London, focused on making AI s
   <img src="assets/focus.svg" width="100%" alt="Current areas of focus: AI Transformation, LLM Reliability, Knowledge Graphs, Agentic Workflows, Model Evaluation, Cyber Security, and Vulnerability Automation" />
 </p>
 
-### Current
 
-```text
-umfhero
-├── Cloudflare
-│   ├── AI Transformation Intern
-│   ├── Focus
-│   │   └── Making frontier models deterministic
-│   └── Working with
-│       └── Ontologies · Knowledge graphs · Agentic workflows
-│
-└── King's College London
-    ├── MSc Cyber Security
-    └── Focus
-        └── Cryptography · Network Security · Security Engineering · Computer Forensics
-```
 
 ### GitHub
 
