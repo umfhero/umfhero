@@ -83,44 +83,39 @@ umfhero
 
 ### Stack
 
-#### AI and Automation
-
-**Models and tools**
-
-<p align="left"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/anthropic/ffffff" /><img src="https://cdn.simpleicons.org/anthropic/191919" height="26" alt="Claude" /></picture>&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/gpt-dark.svg" /><img src="assets/gpt.svg" height="26" alt="GPT" /></picture>&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/googlegemini/ffffff" /><img src="https://cdn.simpleicons.org/googlegemini/191919" height="26" alt="Gemini" /></picture></p>
-
-Claude · GPT · Gemini · Qwen · DeepSeek · Llama · Ollama
-
-**Applied capabilities**
-
-LLM API integration · Prompt engineering · RAG · Ontology design · Knowledge graph design · Agentic workflows · Model evaluation · Local inference
-
-#### Security
-
-**Tooling**
-
-<p align="left"><img src="https://skillicons.dev/icons?i=kali,windows,linux,bash" height="26" alt="Kali Linux, Windows, Linux and Bash" />&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/burpsuite/ffffff" /><img src="https://cdn.simpleicons.org/burpsuite/191919" height="26" alt="Burp Suite" /></picture>&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/metasploit/ffffff" /><img src="https://cdn.simpleicons.org/metasploit/191919" height="26" alt="Metasploit" /></picture>&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/wireshark/ffffff" /><img src="https://cdn.simpleicons.org/wireshark/191919" height="26" alt="Wireshark" /></picture>&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/owasp/ffffff" /><img src="https://cdn.simpleicons.org/owasp/191919" height="26" alt="OWASP" /></picture></p>
-
-**Web and network:** Kali Linux · Burp Suite · Nmap · Wireshark · Metasploit · sqlmap · Nikto · Gobuster
-
-**Reverse engineering, password and forensics:** x64dbg · WinDbg · Ghidra · Volatility · Autopsy · Hashcat · John the Ripper
-
-**Security practice**
-
-Penetration testing · Memory analysis · Reverse engineering · OWASP Top 10 · CTFs
-
-#### Languages
-
-**Languages**
-
-<p align="left"><img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cs,cpp" height="22" alt="Python, TypeScript, JavaScript, Java, C# and C++" /></p>
-
-Python · TypeScript · JavaScript · Java · C# · C++ · SQL · Cypher · Verse
-
-#### Frameworks and Infrastructure
-
-**Frameworks and infrastructure**
-
-<img src="https://skillicons.dev/icons?i=electron,react,nodejs,docker,git,github,cloudflare,workers,linux" height="22" alt="Electron, React, Node.js, Docker, Git, GitHub, Cloudflare Workers and Linux" />
-
-Electron · React · Node.js · Docker · Git · GitHub · Kuzu · Cloudflare Workers AI · Linux
+<table width="100%">
+  <tr>
+    <td width="22%" valign="top"><strong>AI &amp; Automation</strong></td>
+    <td valign="top">
+      <strong>Models &amp; tools</strong><br />
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/anthropic/ffffff" /><img src="https://cdn.simpleicons.org/anthropic/191919" height="22" alt="Claude" /></picture>&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/gpt-dark.svg" /><img src="assets/gpt.svg" height="22" alt="GPT" /></picture>&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/googlegemini/ffffff" /><img src="https://cdn.simpleicons.org/googlegemini/191919" height="22" alt="Gemini" /></picture><br />
+      Claude · GPT · Gemini · Qwen · DeepSeek · Llama · Ollama<br /><br />
+      <strong>Applied capabilities</strong><br />
+      Deterministic AI design · Frontier-model reliability · Hallucination mitigation · Guardrails &amp; structured outputs · Trust scoring · Model evaluation · LLM API integration · Prompt engineering · RAG · Ontology design · Knowledge graph design · Agentic workflows · Local inference
+    </td>
+  </tr>
+  <tr>
+    <td width="22%" valign="top"><strong>Security</strong></td>
+    <td valign="top">
+      <strong>Tooling</strong><br />
+      <img src="https://skillicons.dev/icons?i=kali,windows,linux,bash" height="20" alt="Kali Linux, Windows, Linux and Bash" />&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/burpsuite/ffffff" /><img src="https://cdn.simpleicons.org/burpsuite/191919" height="20" alt="Burp Suite" /></picture>&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/metasploit/ffffff" /><img src="https://cdn.simpleicons.org/metasploit/191919" height="20" alt="Metasploit" /></picture>&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/wireshark/ffffff" /><img src="https://cdn.simpleicons.org/wireshark/191919" height="20" alt="Wireshark" /></picture>&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/owasp/ffffff" /><img src="https://cdn.simpleicons.org/owasp/191919" height="20" alt="OWASP" /></picture><br />
+      <strong>Web &amp; network:</strong> Kali Linux · Burp Suite · Nmap · Wireshark · Metasploit · sqlmap · Nikto · Gobuster<br />
+      <strong>Reverse engineering, password &amp; forensics:</strong> x64dbg · WinDbg · Ghidra · Volatility · Autopsy · Hashcat · John the Ripper<br />
+      <strong>Practice:</strong> Penetration testing · Memory analysis · Reverse engineering · OWASP Top 10 · CTFs
+    </td>
+  </tr>
+  <tr>
+    <td width="22%" valign="top"><strong>Languages</strong></td>
+    <td valign="top">
+      <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cs,cpp" height="20" alt="Python, TypeScript, JavaScript, Java, C# and C++" /><br />
+      Python · TypeScript · JavaScript · Java · C# · C++ · SQL · Cypher · Verse
+    </td>
+  </tr>
+  <tr>
+    <td width="22%" valign="top"><strong>Frameworks &amp; Infrastructure</strong></td>
+    <td valign="top">
+      <img src="https://skillicons.dev/icons?i=electron,react,nodejs,docker,git,github,cloudflare,workers,linux" height="20" alt="Electron, React, Node.js, Docker, Git, GitHub, Cloudflare Workers and Linux" /><br />
+      Electron · React · Node.js · Docker · Git · GitHub · Kuzu · Cloudflare Workers AI · Linux
+    </td>
+  </tr>
+</table>
