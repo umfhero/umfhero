@@ -87,17 +87,9 @@ umfhero
 
 **Models and tools**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/anthropic/ffffff" />
-  <img src="https://cdn.simpleicons.org/anthropic/191919" height="26" alt="Claude" />
-</picture>
-<img src="assets/codex.svg" height="26" alt="Codex" />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/googlegemini/ffffff" />
-  <img src="https://cdn.simpleicons.org/googlegemini/191919" height="26" alt="Gemini" />
-</picture>
+<p align="left"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/anthropic/ffffff" /><img src="https://cdn.simpleicons.org/anthropic/191919" height="26" alt="Claude" /></picture>&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/gpt-dark.svg" /><img src="assets/gpt.svg" height="26" alt="GPT" /></picture>&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/googlegemini/ffffff" /><img src="https://cdn.simpleicons.org/googlegemini/191919" height="26" alt="Gemini" /></picture></p>
 
-Claude · Codex · GPT · Gemini · Qwen · DeepSeek · Llama · Ollama
+Claude · GPT · Gemini · Qwen · DeepSeek · Llama · Ollama
 
 **Applied capabilities**
 
@@ -107,17 +99,11 @@ LLM API integration · Prompt engineering · RAG · Ontology design · Knowledge
 
 **Tooling**
 
-<img src="https://skillicons.dev/icons?i=kali,windows" height="26" alt="Kali Linux and Windows" />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/burpsuite/ffffff" />
-  <img src="https://cdn.simpleicons.org/burpsuite/191919" height="26" alt="Burp Suite" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/owasp/ffffff" />
-  <img src="https://cdn.simpleicons.org/owasp/191919" height="26" alt="OWASP" />
-</picture>
+<p align="left"><img src="https://skillicons.dev/icons?i=kali,windows,linux,bash" height="26" alt="Kali Linux, Windows, Linux and Bash" />&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/burpsuite/ffffff" /><img src="https://cdn.simpleicons.org/burpsuite/191919" height="26" alt="Burp Suite" /></picture>&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/metasploit/ffffff" /><img src="https://cdn.simpleicons.org/metasploit/191919" height="26" alt="Metasploit" /></picture>&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/wireshark/ffffff" /><img src="https://cdn.simpleicons.org/wireshark/191919" height="26" alt="Wireshark" /></picture>&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/owasp/ffffff" /><img src="https://cdn.simpleicons.org/owasp/191919" height="26" alt="OWASP" /></picture></p>
 
-Kali Linux · Burp Suite · Nmap · x64dbg · WinDbg
+**Web and network:** Kali Linux · Burp Suite · Nmap · Wireshark · Metasploit · sqlmap · Nikto · Gobuster
+
+**Reverse engineering, password and forensics:** x64dbg · WinDbg · Ghidra · Volatility · Autopsy · Hashcat · John the Ripper
 
 **Security practice**
 
@@ -127,9 +113,9 @@ Penetration testing · Memory analysis · Reverse engineering · OWASP Top 10 ·
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript" height="22" alt="Python, TypeScript and JavaScript" />
+<p align="left"><img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cs,cpp" height="22" alt="Python, TypeScript, JavaScript, Java, C# and C++" /></p>
 
-Python · TypeScript · JavaScript · SQL · Cypher · Verse
+Python · TypeScript · JavaScript · Java · C# · C++ · SQL · Cypher · Verse
 
 #### Frameworks and Infrastructure
 
