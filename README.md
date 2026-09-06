@@ -4,37 +4,6 @@ Cyber security graduate and AI developer based in London, focused on making AI s
 
 <table width="100%">
   <tr>
-    <td width="50%" align="center" valign="middle">
-      <img src="assets/cloudflare.svg" width="124" alt="Cloudflare logo" />
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="assets/kcl.png" height="76" alt="King's College London logo" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <strong>Cloudflare</strong><br />
-      <sub>AI Transformation Intern</sub><br />
-      <sub>Making frontier models deterministic</sub>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <strong>King's College London</strong><br />
-      <sub>MSc Cyber Security</sub><br />
-      <sub>2026–2027</sub>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="assets/focus.svg" width="100%" alt="Current areas of focus: AI Transformation, LLM Reliability, Knowledge Graphs, Agentic Workflows, Model Evaluation, Cyber Security, and Vulnerability Automation" />
-</p>
-
-
-
-### GitHub
-
-<table width="100%">
-  <tr>
     <td width="50%" align="center" valign="top">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=umfhero&amp;theme=github_dark" />
